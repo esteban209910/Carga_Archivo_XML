@@ -26,11 +26,11 @@ Procesar archivos XML y almacenarlos en tablas de SQL Server para su posterior a
 
 ---
 
-## 📈 Resultados esperados
+##  Resultados esperados
 - Datos XML correctamente almacenados en tablas relacionales  
 - Estructura lista para consultas y análisis  
 
 ---
 
-## ✍️ Autor
+## Autor
 **Esteban David González Meneses**
